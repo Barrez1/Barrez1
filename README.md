@@ -3,9 +3,11 @@
  ##
  
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barrez1&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrez1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/Barrez1">
+<img reight="180em" src="https://github-readme-stats.vercel.app/api?username=Barrez1&show_icons=true&theme=tokyonight">
+<img reight="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrez1&layout=donut)](https://github.com/anuraghazra/github-readme-stats">
+</div>
 
 
 <div style="display: inline_block"><br>
