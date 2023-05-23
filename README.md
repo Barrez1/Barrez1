@@ -6,8 +6,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barrez1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barrez1)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrez1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
