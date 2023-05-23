@@ -2,10 +2,10 @@
 
  ##
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barrez1&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barrez1&layout=compact)](https://github.com/Barrez1/github-readme-stats)
+
+
 
 
 <div style="display: inline_block"><br>
