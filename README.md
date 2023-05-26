@@ -30,15 +30,14 @@
   <a href="https://www.instagram.com/barresepedro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:barresepedro18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-barrese/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <img align="right" alt="Barrez-CSS" height="200" width="200" src="https://media.tenor.com/SrFMrgnoTfQAAAAM/christian-bale.gif">
+ 
  
   
 </div>
 
-#
 
 
- <img align="left" alt="Barrez-CSS" height="200" width="250" src="https://media3.giphy.com/media/XreQmk7ETCak0/giphy.gif">
+ 
  
 
 
