@@ -10,13 +10,13 @@
 </div>
 
 ##
- <br>
  
-  <div align="center">
-  <a href="https://www.instagram.com/barresepedro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&color=green&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:barresepedro18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&color=sucess&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-barrese/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&color=yellowgreen&logoColor=white" target="_blank"></a> 
-</div>
+<h3 align="center">Connect with me: ✉️</h3>
+<p align="center">
+<a href="https://linkedin.com/in/pedro-barrese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-barrese" height="30" width="40" /></a>
+<a href="https://instagram.com/barresepedro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barresepedro" height="30" width="40" /></a>
+ <a href="https://wa.me/+5519996379055" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/13-whatsapp-256.png" alt="barresepedro" height="30" width="40" /></a>
+</p>
 <br>
 
  <h3 align="center">Languages and Tools: 🛠️</h3>
