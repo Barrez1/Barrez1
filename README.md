@@ -18,36 +18,26 @@
   <a href="https://www.linkedin.com/in/pedro-barrese/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&color=yellowgreen&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-<div>
- <p align="center" > <strong>Habilidades: ☕</strong></p>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Barrez-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Barrez-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Barrez-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Barrez-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
- 
- </div>          
-</div>
-<br>
 
- <p align="center" > Ferramentas: 🛠️</p>
-<div style="display: inline_block" align="center">
-<img alt="Barrez-Github" height="30" width="40" src=https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-256.png>
-<img alt="Barrez-VisualStudio" height="30" width="40" src=https://img.icons8.com/?size=1x&id=48455&format=png>
-<img alt="Barrez-windows" height="30" width="40" src=https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-256.png>
-<img alt="Barrez-MySQL" height="30" width="40" src=https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png>
-     
- </div>
+ <h3 align="center">Languages and Tools: 🛠️</h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
  <br>
  
- <p align="center">Estudando: 📖</p>
+ <h3 align="center">Estudando: 📖</h3>
 <div style="display: inline_block" align="center">
 <img alt="Barrez-NodeJs" height="30" width="40" src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png>
 <img alt="Barrez-PhP" height="30" width="40" src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-256.png>
-<img alt="Barrez-Bootstrap" height="30" width="40" src=https://img.icons8.com/?size=512&id=84710&format=png>
 <img alt="Barrez-ReactJs" height="30" width="40" src=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png>
      
  </div>
+ 
+ <br>
+ <div align="center">
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=barrez1&" alt="barrez1" /></p>
+  </div>
+  
+ 
   
   ##
  
