@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/pedro-barrese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-barrese" height="30" width="40" /></a>
 <a href="https://instagram.com/barresepedro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barresepedro" height="30" width="40" /></a>
  <a href="https://wa.me/+5519996379055" target="blank"><img align="center" src="https://www.svgrepo.com/show/475692/whatsapp-color.svg" alt="barresepedro" height="30" width="40" /></a>
+ <a href="mailto:barresepedro18@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="barresepedro" height="30" width="40" /></a>
 </p>
 <br>
 
