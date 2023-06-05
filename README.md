@@ -25,7 +25,7 @@
 
  <br>
  
- <h3 align="center">Estudando: 📖</h3>
+ <h3 align="center">I am studying: 📖</h3>
 <div style="display: inline_block" align="center">
 <img alt="Barrez-NodeJs" height="30" width="40" src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png>
 <img alt="Barrez-PhP" height="30" width="40" src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-256.png>
