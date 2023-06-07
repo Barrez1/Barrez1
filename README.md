@@ -34,10 +34,6 @@
  </div>
  
  <br>
- <div align="center">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=barrez1&" alt="barrez1" /></p>
-  </div>
-  
  
   
   ##
