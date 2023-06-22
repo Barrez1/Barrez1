@@ -5,8 +5,8 @@
  
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Barrez1&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=8FBC8F&text_color=006400&bg_color=0d1117" alt="Pedro Barrese github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barrez1&layout=compact&hide_border=true&title_color=2E8B57&text_color=006400&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=barrez1&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=8FBC8F&text_color=006400&bg_color=0d1117" alt="Pedro Barrese github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrez1&layout=compact&hide_border=true&title_color=2E8B57&text_color=006400&bg_color=0d1117" />
 </div>
 
 ##
